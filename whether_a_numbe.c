@@ -5,7 +5,7 @@ main()
 	printf("Enter the any value : - ");
 	scanf("%d",&num);
 	
-	if(num %2 == 0) //even number condition 
+	if(num %2 == 0)
 	               // odd number condition (num %2 == 1);
 	{
 		printf("Even Number");	
